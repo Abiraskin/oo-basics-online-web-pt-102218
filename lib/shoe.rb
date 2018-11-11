@@ -9,7 +9,7 @@ attr_reader :brand
 
   def cobble
     puts "The shoe ha"
-    @condition = "New"
+    @condition = "new"
   end
 
 end
